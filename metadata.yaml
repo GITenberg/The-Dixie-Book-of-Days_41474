@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41190'
     url: http://www.gutenberg.org/2009/agents/41190
 description: '"Quotations illustrative of the history and literature of the South."--Preface'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41474#The-Dixie-Book-of-Days
 gutenberg_issued: '2012-11-24'
 gutenberg_type: Text
 identifiers:
